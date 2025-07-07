@@ -53,3 +53,7 @@
 "JOP":
   url: https://https://link.springer.com/journal/11227
   color: "#32FF00"
+
+"GRSL":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859
+  color: "#0080ff"
