@@ -21,6 +21,12 @@ nav_order: 6
 - **Description:** Compulsory subject of the second year of the [Bachelor's Degree in Computer Science](https://www.usc.gal/en/studies/degrees/engineering-and-architecture/computer-science-degree).
 - **Details:** Interactive teaching in small groups. 
 
+## [Networks Design and Administration](https://www.usc.gal/en/studies/degrees/engineering-and-architecture/computer-science-degree/20242025/networks-design-and-administration-17633-16884-3-98098)
+
+- **Course Code:** G4012447 
+- **Description:** Elective subject of the fourth year of the [Bachelor's Degree in Computer Science](https://www.usc.gal/en/studies/degrees/engineering-and-architecture/computer-science-degree).
+- **Details:** Interactive teaching in small groups. 
+
 # Academic year 2023-2024
 
 ## [Concurrent, Parallel and Distributed Computing](https://www.usc.gal/en/studies/degrees/engineering-and-architecture/artificial-intelligence-deegree/20232024/concurrent-parallel-and-distributed-programming-18814-17965-2-102273)
