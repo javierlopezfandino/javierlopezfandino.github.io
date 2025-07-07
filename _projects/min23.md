@@ -5,7 +5,7 @@ description: PID2022-141623NB-I00 - GENERACIÓN DE CONOCIMIENTO 2022
 img: 
 importance: 1
 category: National
-related_publications: true
+related_publications: false
 ---
 
 Duración do 01 de setembro de 2023 ao 31 de agosto de 2026 (35 meses)

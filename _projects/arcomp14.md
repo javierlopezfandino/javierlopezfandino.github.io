@@ -5,7 +5,7 @@ description: CONSOLIDACIÓN E ESTRUTURACIÓN
 img: 
 importance: 1
 category: Regional
-related_publications: true
+related_publications: false
 ---
 
 Duración do 24 de xuño de 2014 ao 31 de decembro de 2017 (42 meses)

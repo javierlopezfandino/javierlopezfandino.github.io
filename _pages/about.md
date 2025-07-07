@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office 14b</p>
+    <p>Office 4</p>
     <p>Department of Electronics and Computing</p>
-    <p>Edificio Monte da Condesa</p>
+    <p>Edificio Emprendia</p>
     <p>Santiago de Compostela 15782 - Spain</p>
 
 news: false # includes a list of news items
