@@ -19,7 +19,7 @@
         "Computer Architecture and Technology",
         "GPUs and Accelerators",
         "Operating Systems",
-        "Parallel and Distributed Programming",
+        "Parallel and Distributed Programming"
       ]
     }
   ],
@@ -48,7 +48,7 @@
       "endDate": "2018-07-23",
       "score": "Cum Laude",
       "courses": [
-        "Efficient multitemporal change detection techniques for hyperspectral images on GPU"
+        "Efficient multitemporal change detection techniques for hyperspectral images on GPU."
       ]
     }
   ],
