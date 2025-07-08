@@ -3,7 +3,7 @@ layout: page
 title: Computación de altas prestaciones y Cloud para aplicaciones de alto interés
 description: GENERACIÓN DE CONOCIMIENTO 2019
 img: 
-importance: 1
+importance: 2
 category: National
 related_publications: false
 ---

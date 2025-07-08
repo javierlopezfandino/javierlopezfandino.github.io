@@ -3,7 +3,7 @@ layout: page
 title: GRC GI-1638 ARQUITECTURA DE COMPUTADORES
 description: CONSOLIDACIÓN E ESTRUTURACIÓN
 img: 
-importance: 1
+importance: 3
 category: Regional
 related_publications: false
 ---

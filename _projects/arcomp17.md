@@ -3,7 +3,7 @@ layout: page
 title: REDE DE TECNOLOXÍAS LIDAR E DE INFORMACIÓN XEOESPACIAL II. TLIX2.
 description: CONSOLIDACIÓN E ESTRUCTURACIÓN. REDES 2016 GI-1638 
 img: 
-importance: 1
+importance: 2
 category: Regional
 related_publications: false
 ---

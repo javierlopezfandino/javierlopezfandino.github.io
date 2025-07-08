@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: List of subjects in which I have been a teacher
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 # Academic year 2024-2025
 
