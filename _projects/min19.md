@@ -8,6 +8,5 @@ category: National
 related_publications: false
 ---
 
-Duración do 01 de junio de 2020 ao 31 de mayo de 2023 (36 meses)
-Financiación concedida en régimen: competitivo.
-
+**Duration:** From June 1, 2020, to May 31, 2023 (36 months)  
+**Funding scheme:** Competitive

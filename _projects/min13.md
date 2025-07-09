@@ -8,6 +8,5 @@ category: National
 related_publications: false
 ---
 
-Duración do 01 de enero de 2014 ao 31 de decembro de 2017 (36 meses)
-Financiación concedida en régimen: competitivo.
-
+**Duration:** From January 1, 2014, to December 31, 2017 (36 months)  
+**Funding scheme:** Competitive

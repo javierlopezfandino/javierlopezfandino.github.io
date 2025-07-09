@@ -8,6 +8,5 @@ category: National
 related_publications: false
 ---
 
-Duración do 30 de diciembre de 2016 ao 29 de decembro de 2019 (36 meses)
-Financiación concedida en régimen: competitivo.
-
+**Duration:** From December 30, 2016, to December 29, 2019 (36 months)  
+**Funding scheme:** Competitive
