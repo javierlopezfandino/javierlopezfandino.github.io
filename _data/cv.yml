@@ -8,7 +8,7 @@
     - name: Phone
       value: 881815504
     - name: URL
-      value: "https://investigacion.usc.es/investigadores/192943
+      value: https://investigacion.usc.es/investigadores/192943
 
 - title: Education
   type: time_table
