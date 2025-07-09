@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Computación de altas prestaciones y Cloud para aplicaciones de alto interés
-description: GENERACIÓN DE CONOCIMIENTO 2019
+title: Computación de Altas Prestaciones y Cloud para Aplicaciones de Alto Interés
+description: PID2019-104834GB-I00 - GENERACIÓN DE CONOCIMIENTO 2019 
 img: 
 importance: 2
 category: National

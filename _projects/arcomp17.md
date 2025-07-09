@@ -1,6 +1,6 @@
 ---
 layout: page
-title: REDE DE TECNOLOXÍAS LIDAR E DE INFORMACIÓN XEOESPACIAL II. TLIX2.
+title: Rede de Tecnoloxías LIDAR e de Información Xeoespacial II. TLIX2.
 description: CONSOLIDACIÓN E ESTRUCTURACIÓN. REDES 2016 GI-1638 
 img: 
 importance: 2
@@ -8,8 +8,6 @@ category: Regional
 related_publications: false
 ---
 
-Duración do 01 de xaneiro de 2017 ao 31 de decembro de 2018 (23 meses)
-Financiación concedida en régimen: competitivo.
+**Duration:** From January 1, 2017, to December 31, 2018 (23 months)  
+**Funding scheme:** Competitive
 
-Convocatoria 427
-Consolidación

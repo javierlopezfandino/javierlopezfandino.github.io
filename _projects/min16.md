@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Soluciones para nuevos desafios en computación de altas prestaciones.
+title: Soluciones para Nuevos Desafios en Computación de Altas Prestaciones.
 description: TIN2016-76373-P - EXCELENCIA 2016
 img: 
 importance: 3

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Soluciones hardware y software para la computación de altas prestaciones.
+title: Soluciones Hardware y Software para la Computación de Altas Prestaciones.
 description: TIN2013-41129-P - EXCELENCIA 2013
 img: 
 importance: 4
