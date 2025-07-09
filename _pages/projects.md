@@ -6,7 +6,7 @@ description: Projects in which I have participated.
 nav: true
 nav_order: 3
 display_categories: [National, Regional, Private]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
