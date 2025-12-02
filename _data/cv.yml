@@ -1,0 +1,25 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Javier López Fandiño
+    - name: email
+      value: javier.lopez.fandino@usc.es
+    - name: Phone
+      value: 881815504
+    - name: URL
+      value: https://investigacion.usc.es/investigadores/192943
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: University of Santiago de Compostela, Santiago de Compostela, Spain
+      year: 2018
+      description:
+        - title: Efficient multitemporal change detection techniques for hyperspectral images on GPU
+          contents:
+            - Advised by Dora Blanco Heras and Francisco Argüello
+
+
+

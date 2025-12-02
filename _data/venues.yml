@@ -1,0 +1,59 @@
+"IJRS":
+  url: https://www.tandfonline.com/toc/tres20/current
+  color: "#006db4"
+
+"JSTARS":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443
+  color: "#0080ff"
+
+"SARTECO":
+  url: https://jornadassarteco.org
+  color: "#cda179"
+
+"IGARSS":
+  url: https://www.2024.ieeeigarss.org
+  color: "#ff4700"
+
+"RM":
+  url: https://www.mdpi.com/journal/remotesensing
+  color: "#3a7138"
+
+"CMMSE":
+  url: https://cmmse.usal.es
+  color: "#7d7d7d"
+
+"JSUP":
+  url: https://link.springer.com/journal/11227
+  color: "#8f003b"
+
+"SPIE":
+  url: https://spie.org
+  color: "#01a49d"
+
+"PDPTA":
+  url: https://worldcomp-proceedings.com/proc/proc2014/pdpta.htmlg
+  color: "#346534"
+
+"IJPP":
+  url: https://link.springer.com/journal/10766
+  color: "#E5F800"
+
+"IJCNN":
+  url: https://ijcnn.org
+  color: "#ff8080"
+
+"Thesis":
+  url: https://investigacion.usc.gal/documentos/5d1df67e29995204f766db64
+  color: "#FF3333"
+
+"Master":
+  url: https://minerva.usc.es/xmlui/handle/10347/12989
+  color: "#FF3333"
+
+"JOP":
+  url: https://https://link.springer.com/journal/11227
+  color: "#32FF00"
+
+"GRSL":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859
+  color: "#0080ff"
